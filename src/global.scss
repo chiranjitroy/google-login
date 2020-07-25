@@ -24,3 +24,10 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+/*add toast message*/
+.success-message{
+    --background: rgba(14, 139, 9, 0.795);
+    text-align: center;
+    font-size: 20px;
+    color:rgb(255, 255, 255);  
+}
